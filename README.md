@@ -1,6 +1,6 @@
 # SimplifyUR
 
-This repository contains code, dataset and models for Urdu text simplification as described in paper [SimplifyUR: Unsupervised Lexical Text Simplification for Urdu]().
+This repository contains code, dataset and models for Urdu text simplification as described in paper [SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](#).
 
 # Requirement(s)
 
@@ -18,7 +18,7 @@ Pre-trained models including Word2Vec, Parts of Speech (PoS) tagger and Language
 
 If you use this tool in any of your work, please cite below paper.
 
-[SimplifyUR: Unsupervised Lexical Text Simplification for Urdu]()
+[SimplifyUR: Unsupervised Lexical Text Simplification for Urdu](#)
 
 # License(s)
 
